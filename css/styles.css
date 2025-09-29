@@ -409,14 +409,14 @@ img {
 
 /* ============= footer section ============= */
 
-.footer {
-  /* padding: 100px 0; */
+/* .footer {
+  padding: 100px 0;
   padding-top: 100px;
   padding-bottom: 100px;
-  /* padding: 100px 0 100px; */
+  padding: 100px 0 100px;
   padding-left: 156px;
   background-color: var(--navy-blue);
-}
+} */
 
 /* .logo-footer {
     display: inline-block;
